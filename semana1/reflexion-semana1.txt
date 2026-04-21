@@ -1,0 +1,21 @@
+Reflexión — Semana 1
+
+El uso responsable de la información en internet, la participación ciudadana y la
+organización técnica del trabajo con herramientas como Git están profundamente
+relacionados, porque los tres exigen disciplina, responsabilidad y orden.
+
+Cuando navegamos en internet y compartimos información, tenemos la responsabilidad
+de verificar que sea verdadera antes de difundirla, ya que una noticia falsa puede
+causar daño a muchas personas. Esta misma responsabilidad se traslada a la
+participación ciudadana: un ciudadano digital bien informado puede tomar mejores
+decisiones, opinar con fundamento y contribuir positivamente a su comunidad.
+
+Por su parte, Git nos enseña a organizar nuestro trabajo de forma ordenada y
+trazable, registrando cada cambio que hacemos y permitiendo que otros revisen
+y colaboren en nuestros proyectos. Así como en la ciudadanía digital debemos ser
+transparentes y responsables con la información que publicamos, en Git cada
+commit es un registro honesto de lo que hicimos y por qué lo hicimos.
+
+En conclusión, ser un buen ciudadano digital y ser un buen programador comparten
+los mismos valores: responsabilidad, transparencia, organización y respeto por
+los demás.
