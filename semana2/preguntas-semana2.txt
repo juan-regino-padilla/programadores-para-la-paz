@@ -1,0 +1,15 @@
+Pregunta 1:
+Respuesta: 2
+Ejecutar comandos para interactuar con el sistema.
+
+Pregunta 2:
+Respuesta: 2
+Muestra la ubicación actual dentro del sistema de carpetas.
+
+Pregunta 3:
+Respuesta: 3
+ls
+
+Pregunta 4:
+Respuesta: 2
+mkdir

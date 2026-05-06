@@ -1,0 +1,19 @@
+Reflexión — Semana 2
+
+Para un desarrollador, saber usar la terminal es una habilidad fundamental porque
+le permite interactuar directamente con el sistema operativo de forma rápida y
+precisa, sin depender de interfaces gráficas que no siempre están disponibles.
+
+A través de la terminal se pueden crear, organizar y eliminar carpetas y archivos
+en segundos, lo cual es esencial cuando se trabaja en proyectos con muchos
+componentes. También permite automatizar tareas repetitivas mediante scripts,
+ahorrando tiempo y reduciendo errores.
+
+Además, herramientas clave del desarrollo como Git, Node.js o Python se usan
+principalmente desde la terminal, por lo que no saber usarla limita enormemente
+las posibilidades de un programador. Un desarrollador que domina la terminal
+trabaja de forma más organizada, eficiente y profesional, y está mejor preparado
+para colaborar en equipos de trabajo reales.
+
+En resumen, la terminal no es solo una herramienta técnica, sino el entorno
+natural donde ocurre gran parte del trabajo de programación.
