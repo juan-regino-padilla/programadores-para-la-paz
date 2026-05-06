@@ -1,0 +1,18 @@
+Reflexion — Semana 3
+
+Mantener un registro de cambios en los proyectos de software usando herramientas
+como Git es fundamental porque permite conocer en detalle todo lo que ha ocurrido
+en el proyecto desde su inicio: que se modifico, cuando se hizo y quien lo hizo.
+
+Esto es especialmente importante cuando se trabaja en equipo, ya que varias
+personas pueden estar modificando el mismo proyecto al mismo tiempo. Git permite
+que cada uno trabaje en su parte sin borrar el trabajo de los demas, y luego
+combinar todos los cambios de forma organizada.
+
+Ademas, si en algun momento se introduce un error en el codigo, Git permite
+regresar a una version anterior del proyecto que funcionaba correctamente, lo
+cual ahorra mucho tiempo y evita perdidas de informacion.
+
+En conclusion, Git no es solo una herramienta tecnica sino una practica de
+responsabilidad profesional, ya que garantiza que el trabajo este protegido,
+organizado y sea transparente para todo el equipo.

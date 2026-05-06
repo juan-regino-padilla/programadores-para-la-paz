@@ -1,0 +1,15 @@
+Pregunta 1:
+Respuesta: 2
+Git es un sistema de control de versiones para registrar cambios en proyectos.
+
+Pregunta 2:
+Respuesta: 2
+Registrar y organizar los archivos y cambios de un proyecto.
+
+Pregunta 3:
+Respuesta: 2
+Agrega archivos al area de preparacion para registrar cambios.
+
+Pregunta 4:
+Respuesta: 1
+Guarda un registro de cambios realizados en el proyecto.
