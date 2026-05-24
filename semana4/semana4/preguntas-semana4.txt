@@ -1,0 +1,11 @@
+Pregunta 1: Respuesta 2
+Node.js es un entorno que permite ejecutar JavaScript en el servidor.
+
+Pregunta 2: Respuesta 2
+npm init inicializa un proyecto Node.js creando el archivo package.json.
+
+Pregunta 3: Respuesta 2
+Express es un framework para construir servidores y APIs en Node.js.
+
+Pregunta 4: Respuesta 2
+Una ruta define como responde el servidor cuando un usuario accede a una URL.
