@@ -1,0 +1,15 @@
+Pruebas de rutas del servidor — Semana 5
+
+Ruta 1: http://localhost:3000
+Al acceder a esta ruta el servidor responde con el texto "Servidor activo".
+Es la ruta principal o raiz del servidor.
+
+Ruta 2: http://localhost:3000/saludo
+Al acceder a esta ruta el servidor responde con el texto "Hola comunidad".
+Es una ruta fija que siempre devuelve el mismo mensaje de bienvenida.
+
+Ruta 3: http://localhost:3000/mensaje/juan
+Al acceder a esta ruta el servidor responde con el texto "Hola juan".
+Es una ruta dinamica que recibe un parametro llamado nombre en la URL
+y lo usa para personalizar la respuesta. Si se cambia juan por otro nombre,
+el servidor responde con ese nuevo nombre.

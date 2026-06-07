@@ -1,0 +1,21 @@
+Reflexion — Semana 5
+
+Las APIs son herramientas fundamentales para que las comunidades puedan compartir
+informacion, reportes y alertas de manera organizada porque permiten que diferentes
+aplicaciones o sistemas se comuniquen entre si de forma estructurada y estandarizada.
+
+Por ejemplo, una comunidad podria tener una aplicacion movil donde los ciudadanos
+reporten problemas del barrio como baches, cortes de agua o situaciones de riesgo.
+Esa aplicacion enviaria los datos a un servidor a traves de una API, que los
+organizaria, almacenaria y los pondria a disposicion de las autoridades locales
+o de otros ciudadanos interesados.
+
+Gracias a las APIs, la informacion no queda dispersa en mensajes de WhatsApp o
+redes sociales, sino que se centraliza en un sistema que puede procesarla,
+filtrarla y presentarla de forma clara. Ademas, una API bien disenada permite
+que diferentes plataformas accedan a la misma informacion sin importar si son
+aplicaciones web, moviles o sistemas de escritorio.
+
+En conclusion, las APIs son el puente tecnologico que convierte la participacion
+ciudadana desordenada en comunicacion estructurada, util y accionable para
+mejorar la calidad de vida de las comunidades.

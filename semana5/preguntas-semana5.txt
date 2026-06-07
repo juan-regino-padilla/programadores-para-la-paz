@@ -1,0 +1,15 @@
+Pregunta 1:
+Respuesta: B
+Una ruta define como responde el servidor a una solicitud.
+
+Pregunta 2:
+Respuesta: B
+El metodo GET se usa normalmente para consultar informacion.
+
+Pregunta 3:
+Respuesta: A
+El metodo POST se usa normalmente para enviar o registrar informacion.
+
+Pregunta 4:
+Respuesta: B
+API es una interfaz que permite que sistemas o aplicaciones se comuniquen entre si.
