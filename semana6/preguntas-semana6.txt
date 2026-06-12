@@ -1,0 +1,15 @@
+Pregunta 1:
+Respuesta: B
+JSON es un formato de intercambio de datos usado entre aplicaciones.
+
+Pregunta 2:
+Respuesta: B
+express.json() permite leer datos enviados en formato JSON en una peticion.
+
+Pregunta 3:
+Respuesta: B
+Los datos enviados en una peticion POST se encuentran en req.body.
+
+Pregunta 4:
+Respuesta: C
+{ "nombre": "Juan" } representa correctamente un objeto JSON.
