@@ -1,0 +1,21 @@
+Informacion del sistema — Semana 8
+
+Comando uname -a:
+Este comando muestra informacion detallada del sistema operativo, incluyendo
+el nombre del kernel, la version, la arquitectura del procesador y la fecha
+de compilacion del sistema. Es util para conocer exactamente que sistema
+esta corriendo en un servidor y verificar si esta actualizado.
+
+Comando whoami:
+Este comando muestra el nombre del usuario que esta ejecutando la sesion
+actual en la terminal. Es util para confirmar con que permisos se esta
+trabajando, especialmente en servidores donde hay varios usuarios con
+diferentes niveles de acceso.
+
+Por que es importante conocer informacion del sistema al administrar un servidor:
+Conocer la informacion del sistema es fundamental para un administrador porque
+le permite verificar que version del sistema operativo esta instalada, detectar
+si hay actualizaciones pendientes de seguridad, confirmar la arquitectura del
+hardware y asegurarse de que los programas instalados son compatibles con el
+entorno. Esta informacion es el punto de partida para cualquier tarea de
+mantenimiento o solucion de problemas en un servidor.
