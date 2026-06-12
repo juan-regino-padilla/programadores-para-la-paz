@@ -1,0 +1,20 @@
+Reflexion — Semana 7
+
+Que las comunidades puedan registrar y consultar reportes o incidencias en una
+plataforma tecnologica es fundamental porque convierte la participacion ciudadana
+en informacion organizada, visible y accionable para quienes deben tomar decisiones.
+
+Sin una plataforma de este tipo, los problemas comunitarios se reportan de forma
+desordenada por llamadas, mensajes o comentarios en redes sociales, lo que hace
+muy dificil darles seguimiento o medir su impacto. En cambio, cuando existe un
+sistema centralizado, cada reporte queda registrado con su tipo, descripcion y
+fecha, lo que facilita identificar cuales problemas son mas frecuentes o urgentes.
+
+Ademas, al poder consultar los reportes registrados, tanto los ciudadanos como las
+autoridades pueden verificar que los problemas fueron recibidos y hacer seguimiento
+al estado de cada uno. Esto genera confianza en la comunidad y mejora la relacion
+entre los ciudadanos y las instituciones.
+
+En conclusion, una plataforma de reportes comunitarios no solo organiza la
+informacion sino que empodera a los ciudadanos para participar activamente en
+la solucion de los problemas de su entorno.

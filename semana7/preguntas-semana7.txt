@@ -1,0 +1,15 @@
+Pregunta 1:
+Respuesta: B
+Un array es una estructura que permite almacenar varios datos en una lista.
+
+Pregunta 2:
+Respuesta: B
+El metodo GET se utiliza normalmente para consultar datos existentes.
+
+Pregunta 3:
+Respuesta: B
+El metodo POST se usa normalmente para agregar informacion nueva.
+
+Pregunta 4:
+Respuesta: B
+Una API permite que diferentes sistemas o aplicaciones intercambien informacion.
