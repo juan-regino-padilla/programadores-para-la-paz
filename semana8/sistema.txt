@@ -17,5 +17,4 @@ Conocer la informacion del sistema es fundamental para un administrador porque
 le permite verificar que version del sistema operativo esta instalada, detectar
 si hay actualizaciones pendientes de seguridad, confirmar la arquitectura del
 hardware y asegurarse de que los programas instalados son compatibles con el
-entorno. Esta informacion es el punto de partida para cualquier tarea de
-mantenimiento o solucion de problemas en un servidor.
+entorno.
