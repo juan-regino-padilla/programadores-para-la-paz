@@ -1,0 +1,21 @@
+Reflexion — Semana 9
+
+Que las plataformas tecnologicas que usan las comunidades funcionen de manera
+estable y segura en un servidor es fundamental porque estas plataformas son
+el canal a traves del cual los ciudadanos participan, reportan problemas y
+acceden a informacion importante para su vida cotidiana.
+
+Si un servidor cae o funciona de forma inestable, la comunidad pierde acceso
+a esos servicios justo cuando mas los necesita, como durante una emergencia
+o una convocatoria urgente. Esa falta de disponibilidad no solo es un problema
+tecnico sino que afecta la confianza de las personas en la plataforma y
+reduce su disposicion a participar en el futuro.
+
+Ademas, un servidor seguro protege los datos de los ciudadanos que han
+confiado su informacion a la plataforma. Un servidor mal configurado puede
+ser vulnerable a ataques que expongan esos datos o interrumpan el servicio.
+
+Por eso es importante monitorear la ejecucion del servidor, revisar los logs
+regularmente y aplicar medidas basicas de seguridad como mantener el software
+actualizado y controlar los accesos. La estabilidad tecnica es la condicion
+que hace posible la participacion ciudadana continua y confiable.

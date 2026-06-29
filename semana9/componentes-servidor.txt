@@ -1,0 +1,26 @@
+Componentes de un entorno servidor — Semana 9
+
+Sistema operativo:
+Es la base sobre la que funciona todo el servidor. En este caso usamos Linux,
+que es el sistema operativo mas utilizado en servidores porque es estable,
+seguro y de codigo abierto.
+
+Node.js:
+Es el entorno que permite ejecutar codigo JavaScript fuera del navegador,
+directamente en el servidor. Sin Node.js no seria posible ejecutar el archivo
+server.js ni responder solicitudes de los usuarios.
+
+Aplicacion server.js:
+Es el archivo principal que contiene la logica del servidor. Define las rutas
+disponibles, que hace el servidor cuando recibe una solicitud y en que puerto
+debe escuchar. Es el corazon de la aplicacion.
+
+Puerto:
+Es el canal especifico por donde el servidor recibe las solicitudes. En esta
+actividad usamos el puerto 3000, lo que significa que el servidor escucha
+todo lo que llega a la direccion http://localhost:3000.
+
+Logs:
+Son registros automaticos que guarda el servidor sobre su actividad, como
+que solicitudes recibio, cuando ocurrieron errores y como respondio en cada
+caso. Son fundamentales para detectar problemas y mantener el servidor estable.
