@@ -1,0 +1,15 @@
+Pregunta 1:
+Respuesta: 2
+Un backlog es una lista priorizada de tareas o funcionalidades por desarrollar.
+
+Pregunta 2:
+Respuesta: 2
+Una historia de usuario es una forma breve de expresar que necesita un usuario y para que lo necesita.
+
+Pregunta 3:
+Respuesta: 2
+n8n sirve para automatizar tareas repetitivas y notificaciones de seguimiento no sensibles.
+
+Pregunta 4:
+Respuesta: 2
+Telegram sirve como canal de coordinacion, convocatoria y notificacion comunitaria.
