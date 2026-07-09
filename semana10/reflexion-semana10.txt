@@ -1,0 +1,24 @@
+Reflexion — Semana 10
+
+Las metodologias agiles, la automatizacion y canales como Telegram pueden
+ayudar enormemente a organizar una comunidad o proceso de participacion
+ciudadana porque combinan estructura, velocidad y comunicacion en un mismo
+flujo de trabajo.
+
+El backlog permite que el equipo tenga claro en todo momento que hay que
+hacer, que es mas urgente y que ya esta listo, evitando que las tareas
+importantes queden olvidadas o que varias personas trabajen en lo mismo
+sin coordinarse. Trabajar por iteraciones cortas ademas permite revisar
+el avance con frecuencia, corregir errores a tiempo y mostrarle a la
+comunidad resultados concretos sin esperar a que todo este perfecto.
+
+La automatizacion con n8n y Telegram agrega una capa de agilidad porque
+libera al equipo de tareas repetitivas como enviar notificaciones o
+recordatorios manualmente, permitiendo que las personas se enfoquen en
+lo que realmente requiere su atencion. Sin embargo, esta automatizacion
+debe usarse con criterio, enviando solo informacion no sensible y
+manteniendo siempre la supervision humana sobre los procesos automaticos.
+
+En conclusion, cuando estas herramientas se usan de forma organizada y
+responsable, una comunidad puede responder mas rapido, coordinarse mejor
+y mantener un registro claro de todo lo que ocurre en su proceso.
