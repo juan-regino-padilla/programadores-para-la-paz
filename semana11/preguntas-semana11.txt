@@ -1,0 +1,15 @@
+Pregunta 1:
+Respuesta: 2
+Una base de datos es un sistema que permite almacenar y consultar informacion estructurada.
+
+Pregunta 2:
+Respuesta: 1
+CRUD significa Crear, leer, actualizar y eliminar datos.
+
+Pregunta 3:
+Respuesta: 2
+La autenticacion permite identificar usuarios y controlar quien puede acceder a ciertas funciones.
+
+Pregunta 4:
+Respuesta: 2
+Es importante proteger datos sensibles para evitar riesgos de privacidad o uso indebido de la informacion.

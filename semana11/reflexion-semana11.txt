@@ -1,0 +1,24 @@
+Reflexion — Semana 11
+
+Una plataforma tecnologica que promueve la participacion ciudadana debe tener
+base de datos, autenticacion de usuarios y proteccion de informacion porque
+estos tres elementos son los que hacen posible que la plataforma funcione de
+forma sostenible, confiable y responsable en el tiempo.
+
+Sin una base de datos, la informacion se pierde cada vez que el servidor se
+reinicia y no es posible hacer seguimiento a los reportes, causas o apoyos
+registrados por la comunidad. La base de datos es la memoria de la plataforma
+y sin ella no hay continuidad ni trazabilidad del proceso.
+
+La autenticacion es igualmente necesaria porque no todas las acciones deben
+estar disponibles para cualquier persona. Crear o eliminar causas, gestionar
+usuarios o revisar datos internos son funciones que requieren identificacion
+previa para evitar abusos o manipulacion de la informacion comunitaria.
+
+Finalmente, la proteccion de datos personales es una responsabilidad etica
+hacia los ciudadanos que participan. Si las personas sienten que su informacion
+esta en riesgo, dejan de participar y la plataforma pierde su proposito.
+
+En conclusion, una plataforma ciudadana que no cuida estos tres aspectos puede
+funcionar tecnicamente pero falla en lo mas importante: generar confianza y
+proteger a quienes mas la necesitan.

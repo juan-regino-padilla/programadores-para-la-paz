@@ -1,0 +1,25 @@
+Interfaz basica de la plataforma — Semana 11
+
+La interfaz tendria las siguientes secciones principales:
+
+1. Formulario para crear una causa:
+   Permitiria ingresar el titulo, la descripcion y la fecha de la causa
+   comunitaria. Solo los usuarios autenticados con rol de coordinador
+   podrian acceder a esta funcion.
+
+2. Lista de causas disponibles:
+   Mostraria todas las causas activas con su titulo, descripcion resumida
+   y fecha de creacion. Esta seccion seria visible para todos los usuarios
+   sin necesidad de iniciar sesion.
+
+3. Boton de apoyo:
+   Cada causa tendria un boton que permitiria a los ciudadanos registrados
+   expresar su respaldo a la iniciativa con un solo clic.
+
+4. Contador de apoyos:
+   Junto a cada causa apareceria el numero total de personas que la han
+   apoyado, visible para todos los visitantes de la plataforma.
+
+La interfaz debe ser clara, sencilla y accesible desde cualquier dispositivo.
+No debe mostrar informacion privada de los usuarios que han dado su apoyo,
+solo el conteo total para proteger la privacidad de los participantes.

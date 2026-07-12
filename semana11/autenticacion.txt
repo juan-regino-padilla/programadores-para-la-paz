@@ -1,0 +1,21 @@
+Autenticacion en la plataforma — Semana 11
+
+El login es el proceso mediante el cual un usuario ingresa sus credenciales,
+generalmente correo y contrasena, para que el sistema verifique su identidad
+antes de permitirle acceder a ciertas funciones de la plataforma.
+
+Algunas rutas deben estar protegidas porque contienen informacion privada
+o permiten realizar acciones sensibles como crear, modificar o eliminar
+registros que no deberian estar disponibles para cualquier persona sin
+identificarse primero.
+
+No se deben exponer publicamente los siguientes tipos de informacion:
+- Contrasenas o claves de acceso
+- Documentos de identidad
+- Numeros de telefono o direcciones personales
+- Tokens o claves de API
+- Datos internos del sistema como logs o configuraciones
+- Informacion personal de otros usuarios de la plataforma
+
+Proteger estos datos es una responsabilidad etica y legal hacia los
+ciudadanos que confian su informacion a la plataforma.

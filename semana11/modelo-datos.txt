@@ -1,0 +1,41 @@
+Modelo de datos — Semana 11
+
+Entidad: Causa
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+- estado
+
+Proposito:
+Guardar las causas comunitarias que seran visibles en la plataforma para
+que los ciudadanos puedan conocerlas y decidir si quieren apoyarlas.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id
+- causa_id
+- usuario
+- fecha
+
+Proposito:
+Registrar los apoyos que recibe cada causa para hacer seguimiento a la
+participacion ciudadana y mostrar cuantas personas respaldan cada iniciativa.
+
+
+Entidad: Usuario
+
+Campos principales:
+- id
+- nombre
+- correo
+- rol
+- fecha_registro
+
+Proposito:
+Gestionar el acceso a la plataforma, identificar a los participantes y
+asignar roles como ciudadano o coordinador para controlar los permisos.
