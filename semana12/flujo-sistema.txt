@@ -1,0 +1,30 @@
+Flujo del sistema Peticion en 3 Clics — Semana 12
+
+Paso 1: Un ciudadano ingresa a la plataforma y crea una causa comunitaria
+escribiendo el titulo, la descripcion y la fecha del problema que quiere
+reportar o la iniciativa que quiere impulsar.
+
+Paso 2: La causa queda registrada en la base de datos y aparece en la lista
+de causas disponibles para que otros ciudadanos puedan verla y decidir
+si quieren apoyarla.
+
+Paso 3: Otros ciudadanos pueden apoyar la causa con un clic en el boton
+de apoyo. El sistema registra cada apoyo en la base de datos asociandolo
+a la causa correspondiente.
+
+Paso 4: El sistema cuenta automaticamente los apoyos recibidos y muestra
+el total actualizado junto a cada causa para que cualquier visitante
+pueda ver cuanta respaldo tiene cada iniciativa.
+
+Paso 5: Cuando la causa alcanza un numero minimo de apoyos o el coordinador
+lo decide, el sistema genera automaticamente un documento PDF con la
+peticion formal que incluye el titulo, la descripcion, la fecha y el
+numero de ciudadanos que la respaldan.
+
+Paso 6: El documento PDF puede ser descargado y presentado ante las
+autoridades o instituciones correspondientes como evidencia formal
+de la participacion y el respaldo comunitario.
+
+Paso 7: El sistema envia una notificacion automatica a traves de Telegram
+al equipo coordinador informando que la peticion fue generada y esta
+lista para ser entregada.

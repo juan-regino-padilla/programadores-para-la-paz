@@ -1,0 +1,24 @@
+Automatizacion simple — Semana 12
+
+Herramienta: n8n + Telegram
+
+Evento que activa la automatizacion:
+Se registra una nueva causa en la plataforma a traves del formulario
+de creacion de causas comunitarias.
+
+Mensaje que se envia a Telegram:
+"Nueva causa registrada en la plataforma. Ingresa al sistema para
+revisar el contenido y verificar que esta lista para recibir apoyos."
+
+Segundo flujo de automatizacion:
+Evento: la causa alcanza 10 apoyos registrados.
+Mensaje: "Una causa ha alcanzado 10 apoyos. El sistema puede generar
+la peticion formal. Revisa el panel de coordinacion."
+
+Informacion que NO debe enviarse por seguridad:
+- Nombres completos de los ciudadanos que apoyaron
+- Numeros de cedula o documento de identidad
+- Numeros de telefono o correos electronicos
+- Direcciones o ubicaciones personales
+- Comentarios privados o datos sensibles del reporte
+- Tokens, claves o credenciales del sistema

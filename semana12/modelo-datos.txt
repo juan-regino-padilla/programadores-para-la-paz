@@ -1,0 +1,29 @@
+Modelo de datos — Semana 12
+
+Entidad: Causa
+
+Campos:
+- id
+- titulo
+- descripcion
+- fecha
+
+Proposito:
+Guardar las causas comunitarias que los ciudadanos crean en la plataforma.
+Cada causa tiene un identificador unico, un titulo claro, una descripcion
+del problema o iniciativa y la fecha en que fue registrada.
+
+
+Entidad: Apoyo
+
+Campos:
+- id
+- causa_id
+- nombre
+- fecha
+
+Proposito:
+Registrar los apoyos que recibe cada causa. El campo causa_id relaciona
+cada apoyo con su causa correspondiente. El nombre del ciudadano se
+guarda para poder incluirlo en la peticion formal, pero debe manejarse
+con cuidado para proteger la privacidad de los participantes.

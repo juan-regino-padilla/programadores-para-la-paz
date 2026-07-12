@@ -1,0 +1,27 @@
+Reflexion final — Semana 12
+
+Durante este curso aprendi que la tecnologia no es solo una herramienta
+tecnica sino un puente que puede conectar a las comunidades con sus
+derechos, sus necesidades y sus procesos de participacion ciudadana.
+
+Desde la primera semana, cuando aprendia a usar la terminal y Git, hasta
+esta ultima actividad donde integramos base de datos, automatizacion y
+generacion de documentos, cada paso me mostro que construir una solucion
+tecnologica util requiere tanto conocimiento tecnico como responsabilidad
+social y criterio etico.
+
+Aprendi que organizar el trabajo con backlog e iteraciones hace que los
+proyectos avancen de forma ordenada y que los errores se corrijan a tiempo.
+Tambien comprendi que la seguridad digital no es un lujo sino una obligacion
+hacia las personas que confian su informacion a una plataforma comunitaria.
+
+La automatizacion con herramientas como n8n y Telegram me mostro que es
+posible hacer mas con menos esfuerzo, siempre que se use con criterio y
+sin exponer datos sensibles de la comunidad.
+
+En conclusion, este curso me demostro que cualquier persona con voluntad
+de aprender puede usar la tecnologia para fortalecer su comunidad, documentar
+problemas, organizar procesos y presentar evidencias formales ante las
+instituciones. La tecnologia al servicio de la participacion ciudadana
+es una de las herramientas mas poderosas para construir una sociedad
+mas justa, transparente y organizada.

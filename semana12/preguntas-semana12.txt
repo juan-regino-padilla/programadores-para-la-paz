@@ -1,0 +1,19 @@
+Pregunta 1:
+Respuesta: 2
+Peticion en 3 Clics es una herramienta simple para que una comunidad registre
+apoyos a una causa y genere una peticion formal.
+
+Pregunta 2:
+Respuesta: 2
+Generar un PDF automaticamente convierte informacion registrada en un documento
+formal que puede ser compartido o presentado ante las autoridades.
+
+Pregunta 3:
+Respuesta: 1
+Es importante minimizar datos personales para evitar almacenar informacion
+innecesaria o sensible que pueda poner en riesgo a los ciudadanos.
+
+Pregunta 4:
+Respuesta: 1
+n8n o Telegram pueden enviar notificaciones automaticas cuando ocurre un
+evento en el sistema, como el registro de una nueva causa o un nuevo apoyo.
